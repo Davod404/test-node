@@ -1,0 +1,16 @@
+{
+  "name": "test-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "export NODE_ENV=production && node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.10.2"
+  }
+}
